@@ -1,0 +1,164 @@
+/* style.css - für die Unterseite "Einkaufsliste" */
+
+/* Grundstil für die Seite */
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color:#fafbfc;
+  color: #111;
+  margin: 30px;
+  padding: 20px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 240px; /* Links flexibel, rechts fix */
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  align-items: start;
+}
+
+.grid-left {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.grid-right {
+  position: sticky;
+  top: 2rem;
+}
+
+/* Optional: Responsive Verhalten für kleinere Bildschirme */
+@media (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+  .grid-right {
+    position: static;
+    margin-top: 2rem;
+  }
+}
+
+
+/* Überschrift anpassen */
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.headline-logo {
+  height: 100px;
+  width: auto;
+  margin-left: 20px;
+}
+
+.horizontal-line {
+  border: none; /* Entfernt den Standardrahmen */
+  height: 2px; /* Dicke der Linie */
+  background-color: #00030a; /* Farbe der Linie */
+  margin: 20px 0; /* Abstand oben und unten */
+}
+
+#back-button {
+  margin: 20px 0;
+  padding: 10px 20px;
+  background-color:#f5e6c1;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#back-button:hover {
+  background-color: #B8860B;
+}
+
+
+
+/* Shopping List und Rezepte anpassen */
+#shoppinglist {
+  margin-bottom: 40px;
+}
+
+#recipes {
+  margin-top: 40px;
+}
+
+h2 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+}
+
+h2 i {
+  margin-right: 10px; /* Abstand zwischen Icon und Text */
+  font-size: 1.6rem; /* Größe des Icons */
+  color: #B8860B; /* Farbe des Icons */
+}
+
+.recipe {
+  background-color: #edf0f7;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Schattierung für Tiefe */
+  transition: box-shadow 0.3s ease;
+}
+
+/* Stile für die Einkaufsliste */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  padding: 1px;
+  font-size: 1.1rem;
+}
+
+/* FOOTER */
+
+.footer {
+  background-color: #050000; /* Deine Wunschfarbe */
+  color: white;
+  padding: 60px 80px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 15px;
+  margin-left:-60px;
+  margin-right:-30px;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.footer-logo {
+  height: 30px;
+  border-radius: 8px
+}
+
+#postit {
+  background-color: #fff9a5;
+  padding: 2em;
+  width: 100px;
+  height:100px; /* ← Höhe ergänzt */
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 1.7rem;
+  box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+  transform: rotate(-3deg);
+  border: 1px solid #ddd;
+}

@@ -1,0 +1,356 @@
+[
+  {
+    "id": "Spaghetti",
+    "name": "Spaghetti mit Linsenbolognese",
+    "ingredients": [
+    {"name": "250g Spaghetti", "category": "Getreideprodukte"},
+    {"name": "1 Zwiebel", "category": "Obst und Gemüse"},
+    {"name": "1 Knoblauch", "category": "Obst und Gemüse"},
+    {"name": "1 Karotte", "category": "Obst und Gemüse"},
+    {"name": "100g braune oder grüne Linsen (vorgekocht oder aus der Dose)", "category": "Konserven"},
+    {"name": "1 Dose gehackte Tomaten (400g)", "category": "Saucen"},
+    {"name": "2 EL Tomatenmark", "category": "Saucen"},
+    {"name": "1 TL getrockneter Oregano", "category": "Gewürze"},
+    {"name": "1 TL Paprikapulver", "category": "Gewürze"}
+  ],
+  "instructions": "Spaghetti nach Packungsanleitung in Salzwasser kochen. In der Zwischenzeit Zwiebel, Knoblauch und Karotte fein hacken. Öl in einer Pfanne erhitzen, Zwiebel und Knoblauch glasig anbraten, dann Karotte und Tomatenmark hinzufügen und kurz mitrösten. Linsen, gehackte Tomaten, Oregano und Paprikapulver dazugeben. Bei mittlerer Hitze ca. 10–15 Minuten köcheln lassen, ggf. etwas Wasser zugeben. Mit Salz und Pfeffer abschmecken. Spaghetti abgießen und mit der Linsenbolognese servieren.Schnabulieren!"
+},
+  {
+    "id": "gemuesereis",
+    "name": "Gebratener Reis mit Gemüse und Cashewkernen",
+    "ingredients": [
+    {"name": "200g Reis (z. B. Jasmin oder Basmati)", "category": "Getreideprodukte"},
+    {"name": "1 Paprika", "category": "Obst und Gemüse"},
+    {"name": "1 Karotte", "category": "Obst und Gemüse"},
+    {"name": "1 kleine Zucchini", "category": "Obst und Gemüse"},
+    {"name": "2 Frühlingszwiebeln", "category": "Obst und Gemüse"},
+    {"name": "1 Knoblauch", "category": "Obst und Gemüse"},
+    {"name": "2 EL Sojasauce", "category": "Saucen"},
+    {"name": "1 TL Sesamöl oder neutrales Pflanzenöl", "category": "Sonstiges"},
+    {"name": "1 Handvoll Cashewkerne (geröstet, ungesalzen)", "category": "Nüsse & Kerne"},
+    {"name": "Optional:Limettensaft", "category": "Gewürze"}
+  ],
+  "instructions": "Reis nach Packungsanleitung kochen und abkühlen lassen (am besten bereits am Vortag zubereiten). Gemüse klein schneiden. Öl in einer großen Pfanne oder einem Wok erhitzen, Knoblauch und Frühlingszwiebeln kurz anbraten, dann restliches Gemüse hinzufügen und 5–7 Minuten unter Rühren braten. Gekochten Reis dazugeben und weitere 3–4 Minuten mitbraten. Mit Sojasauce abschmecken. Cashewkerne untermischen und optional mit etwas Limettensaft servieren. Schnabulieren!"
+},
+  {
+    "id": "quark_kartoffeln",
+    "name": "Knusprige Kartoffeln & Kichererbsen mit Chili & Joghurt",
+ "ingredients": [
+      {"name": "1 Zwiebel", "category": "Obst und Gemüse"},
+      {"name": "200g griechischer Joghurt", "category": "Milchprodukte"},
+      {"name": "500g Kartoffeln", "category": "Obst und Gemüse"},
+      {"name": "120g frischer Blattspinat", "category": "Obst und Gemüse"},
+      {"name": "200g Kichererbsen (aus Dose oder Glas)", "category": "Obst und Gemüse"},
+      {"name": "Weißweinessig", "category": "Gewürze"},
+      {"name": "gemahlener Kreuzkümmel (Cumin)", "category": "Gewürze"},
+      {"name": "Chiliflocken", "category": "Gewürze"},
+      {"name": "1 Knoblauch", "category": "Obst und Gemüse"}
+    ],
+    "instructions": "Kartoffeln schälen und in Würfel schneiden. Mit Olivenöl, Salz, Pfeffer und Kreuzkümmel vermengen und im Ofen bei 200°C ca. 30–35 Minuten backen, bis sie knusprig sind. Kichererbsen abtropfen lassen, trocken tupfen und mit Olivenöl, Salz und Chiliflocken vermengen. Auf ein Backblech geben und für die letzten 20 Minuten zu den Kartoffeln in den Ofen geben. Zwiebel fein schneiden und mit etwas Essig und Salz marinieren. Knoblauch reiben und mit dem Joghurt verrühren. Spinat waschen und kurz in der Pfanne zusammenfallen lassen. Alles gemeinsam anrichten: Joghurt als Basis, darauf Kartoffeln, Kichererbsen, Spinat und marinierte Zwiebeln geben. Mit Chiliflocken bestreuen."
+  },
+  {
+    "id": "burger",
+    "name": "Burger mit Hähnchen-Patty",
+ "ingredients": [
+    {"name": "200g Hähnchenbrustfilet", "category": "Fleisch und Fisch"},
+    {"name": "2 Burgerbrötchen", "category": "Getreideprodukte"},
+    {"name": "1 Eisbergsalat", "category": "Obst und Gemüse"},
+    {"name": "1 Tomate", "category": "Obst und Gemüse"},
+    {"name": "1 Zwiebel", "category": "Obst und Gemüse"},
+    {"name": "2 Scheiben Käse", "category": "Milchprodukte"},
+    {"name": "1 EL Mayonnaise", "category": "Saucen"},
+    {"name": "1 TL Senf", "category": "Saucen"}
+  ],
+    "instructions": "Hähnchenbrust mit Salz, Pfeffer und Paprikapulver würzen. In einer Pfanne mit etwas Öl von beiden Seiten goldbraun braten. Brötchen halbieren und kurz anrösten. Unterseite mit Mayonnaise und Senf bestreichen, dann Salat, Hähnchen, Käse, Tomatenscheiben und Zwiebelringe schichten. Oberseite des Brötchens auflegen und servieren."
+  },
+  {
+    "id": "flammkuchen",
+    "name": "Flammkuchen",
+     "ingredients": [
+    {"name": "1 Flammkuchenteig", "category": "Getreideprodukte"},
+    {"name": "150g Crème fraîche", "category": "Milchprodukte"},
+    {"name": "1 Zwiebel", "category": "Obst und Gemüse"},
+    {"name": "100g Speckwürfel", "category": "Fleisch & Fisch"},
+    {"name": "Muskatnuss", "category": "Gewürze"}
+  ],
+    "instructions": "Backofen auf 220°C Ober-/Unterhitze vorheizen. Crème fraîche mit Salz, Pfeffer und etwas Muskat würzen. Teig auf ein Backblech legen, Crème fraîche gleichmäßig darauf verteilen. Zwiebel in feine Ringe schneiden, mit den Speckwürfeln gleichmäßig über den Teig streuen. Ca. 12–15 Minuten backen, bis der Teig knusprig und der Belag leicht gebräunt ist."
+  },
+  {
+    "id": "feldsalat",
+    "name": "Feldsalat mit Honig-Senf-Dressing",
+  "ingredients": [
+    {"name": "100g Feldsalat", "category": "Obst und Gemüse"},
+    {"name": "1 TL körniger Senf", "category": "Gewürze"},
+    {"name": "1 TL Honig", "category": "Gewürze"},
+    {"name": "1 EL Balsamico-Essig", "category": "Saucen"},
+    {"name": "optional: 30g Walnüsse oder Pinienkerne", "category": "Obst und Gemüse"},
+    {"name": "optional: 100g Cherrytomaten", "category": "Obst und Gemüse"},
+    {"name": "optional: 1 Apfel", "category": "Obst und Gemüse"}
+  ],
+    "instructions": "Feldsalat gründlich waschen und trocken schleudern. Für das Dressing Senf, Honig, Olivenöl und Balsamico-Essig in einer kleinen Schüssel gut verrühren. Mit Salz und Pfeffer abschmecken. Das Dressing über den Salat geben und gut vermengen. Optional mit gerösteten Nüssen und frischen Tomaten oder Apfelspalten garnieren."
+  },
+{
+  "id": "Bananenpancakes",
+  "name": "Bananenpancakes mit Apfelmus",
+  "ingredients": [
+    {"name": "2 Bananen", "category": "Obst und Gemüse"},
+    {"name": "2 Eier", "category": "Sonstiges"},
+    {"name": "100g Mehl", "category": "Getreideprodukte"},
+    {"name": "1 TL Backpulver", "category": "Getreideprodukte"},
+    {"name": "100ml Milch (oder pflanzliche Alternative)", "category": "Milchprodukte"},
+    {"name": "Apfelmus (zum Servieren)", "category": "Konserven"}
+  ],
+  "instructions": "Bananen mit einer Gabel zerdrücken. Eier, Mehl, Backpulver, Milch und Salz hinzufügen und zu einem glatten Teig verrühren. Etwas Öl oder Butter in einer Pfanne erhitzen. Aus dem Teig kleine Pancakes ausbacken – pro Seite ca. 2–3 Minuten bei mittlerer Hitze. Warm mit Apfelmus servieren."
+},
+{
+  "id":"rotes_curry_gemuese",
+  "name": "Rotes Gemuesecurry",
+  "ingredients": [
+    {"name": "1 Dose Kokosmilch (400ml)", "category": "Konserven"},
+    {"name": "2–3 TL rote Currypaste", "category": "Gewürze"},
+    {"name": "1 Zwiebel", "category": "Obst und Gemüse"},
+    {"name": "1 Knoblauch", "category": "Obst und Gemüse"},
+    {"name": "1 Paprika (rot oder gelb)", "category": "Obst und Gemüse"},
+    {"name": "1 Zucchini", "category": "Obst und Gemüse"},
+    {"name": "1 Karotte", "category": "Obst und Gemüse"},
+    {"name": "100g Brokkoli", "category": "Obst und Gemüse"},
+    {"name": "Sojasauce oder Limettensaft", "category": "Gewürze"},
+    {"name": "Thai-Basilikum (optional)", "category": "Gewürze"},
+    {"name": "Reis", "category": "Getreideprodukte"}
+  ],
+  "instructions": "Zwiebel und Knoblauch fein hacken. Gemüse waschen und in mundgerechte Stücke schneiden. Öl in einer großen Pfanne oder einem Wok erhitzen. Zwiebel und Knoblauch darin anbraten, dann Currypaste hinzufügen und kurz mitrösten. Gemüse hinzufügen und einige Minuten mitbraten. Mit Kokosmilch ablöschen und ca. 10–15 Minuten köcheln lassen, bis das Gemüse weich, aber noch bissfest ist. Mit Salz, Pfeffer und ggf. Sojasauce oder Limettensaft abschmecken. Mit frischen Kräutern bestreuen und mit Reis servieren."
+},
+{
+  "id": "Couscous",
+  "name": "Couscous-Salat mit Spiegelei",
+  "ingredients": [
+    {"name": "150g Couscous", "category": "Getreideprodukte und Hülsenfrüchte"},
+    {"name": "200ml Gemüsebrühe", "category": "Konserven"},
+    {"name": "1 Paprika", "category": "Obst und Gemüse"},
+    {"name": "1/2 Gurke", "category": "Obst und Gemüse"},
+    {"name": "2 Frühlingszwiebeln", "category": "Obst und Gemüse"},
+    {"name": "100g Cherrytomaten", "category": "Obst und Gemüse"},
+    {"name": "1 TL Zitronensaft", "category": "Gewürze"},
+    {"name": "2 Eier", "category": "Eier und Ei-Produkte"}
+  ],
+  "instructions": "Couscous in eine Schüssel geben und mit der heißen Gemüsebrühe übergießen. Abdecken und ca. 5 Minuten quellen lassen, dann mit einer Gabel auflockern. Inzwischen Paprika, Gurke, Tomaten und Frühlingszwiebeln klein schneiden. Alles mit dem Couscous vermengen. Mit Olivenöl, Zitronensaft, Salz und Pfeffer abschmecken. In einer Pfanne etwas Öl erhitzen und die Eier als Spiegeleier braten. Den Salat auf Tellern anrichten und jeweils ein Spiegelei daraufsetzen. Warm oder lauwarm servieren."
+},
+
+{
+  "id": "Suppe",
+  "name": "Kürbissuppe mit Ingwer",
+  "ingredients": [
+    {"name": "1 Hokkaido-Kürbis (ca. 800g)", "category": "Obst und Gemüse"},
+    {"name": "1 Zwiebel", "category": "Obst und Gemüse"},
+    {"name": "1 Knoblauch", "category": "Obst und Gemüse"},
+    {"name": "Ingwer", "category": "Gewürze"},
+    {"name": "500ml Gemüsebrühe", "category": "Konserven"},
+    {"name": "200ml Kokosmilch oder Sahne", "category": "Milchprodukte"},
+    {"name": "Muskatnuss", "category": "Gewürze"}
+  ],
+  "instructions": "Kürbis waschen, halbieren, entkernen und in Würfel schneiden (Schale kann dranbleiben). Zwiebel, Knoblauch und Ingwer schälen und fein hacken. In einem Topf etwas Olivenöl erhitzen und alles glasig anbraten. Kürbiswürfel dazugeben und kurz mitrösten. Mit Brühe ablöschen und ca. 20 Minuten köcheln lassen, bis der Kürbis weich ist. Mit einem Stabmixer fein pürieren, Kokosmilch oder Sahne unterrühren und mit Salz, Pfeffer und Muskat abschmecken. Nach Belieben mit Kürbiskernen oder frischen Kräutern servieren."
+},
+
+{
+  "id": "wraps",
+  "name": "Wraps mit Hähnchen oder Halloumi",
+  "ingredients": [
+    {"name": "Tortilla-Wraps", "category": "Getreideprodukte"},
+    {"name": "200g Hähnchenbrust oder 200g Halloumi", "category": "Fleisch und Fisch"},
+    {"name": "1 Paprika", "category": "Obst und Gemüse"},
+    {"name": "1/2 Gurke", "category": "Obst und Gemüse"},
+    {"name": "1 Zwiebel", "category": "Obst und Gemüse"},
+    {"name": "100g Blattsalat (z. B. Rucola oder Eisbergsalat)", "category": "Obst und Gemüse"},
+    {"name": "2 EL Joghurt", "category": "Milchprodukte"},
+    {"name": "1 EL Mayonnaise", "category": "Saucen"},
+    {"name": "1 TL Senf", "category": "Gewürze"},
+    {"name": "1 TL Zitronensaft", "category": "Gewürze"},
+    {"name": "Paprikapulver (bei Hähnchenvariante)", "category": "Gewürze"}
+  ],
+  "instructions": "Hähnchenbrust in Streifen schneiden, mit Salz, Pfeffer und Paprikapulver würzen und in etwas Öl goldbraun braten. Alternativ Halloumi in Scheiben schneiden und in einer Pfanne von beiden Seiten anbraten, bis er goldbraun ist. Paprika, Gurke und Zwiebel in feine Streifen schneiden. Für das Dressing Joghurt, Mayonnaise, Senf, Zitronensaft, Salz und Pfeffer verrühren. Wraps kurz in einer Pfanne oder Mikrowelle erwärmen, dann mit dem Dressing bestreichen. Salat, Gemüse und Hähnchen oder Halloumi darauf verteilen. Wraps einrollen, schräg halbieren und servieren."
+},
+
+{
+  "id": "nudelsalat",
+  "name": "Bunter Nudelsalat",
+  "ingredients": [
+    {"name": "250g Nudeln (z. B. Fusilli oder Penne)", "category": "Getreideprodukte"},
+    {"name": "100g Cherrytomaten", "category": "Obst und Gemüse"},
+    {"name": "1/2 Gurke", "category": "Obst und Gemüse"},
+    {"name": "1 Paprika", "category": "Obst und Gemüse"},
+    {"name": "2 Frühlingszwiebeln", "category": "Obst und Gemüse"},
+    {"name": "100g Feta oder Mozzarella", "category": "Milchprodukte"},
+    {"name": "2 EL Weißweinessig oder Balsamico", "category": "Saucen"},
+    {"name": "1 TL Senf", "category": "Saucen"},
+    {"name": "1 TL Honig", "category": "Sonstiges"},
+    {"name": "frische Kräuter (z. B. Petersilie oder Basilikum)", "category": "Gewürze"}
+  ],
+  "instructions": "Nudeln nach Packungsanweisung kochen, abgießen und abkühlen lassen. In der Zwischenzeit Tomaten halbieren, Gurke und Paprika würfeln, Frühlingszwiebeln in feine Ringe schneiden. Feta oder Mozzarella klein würfeln. Für das Dressing Essig, Öl, Senf und Honig verrühren. Alle Zutaten in einer großen Schüssel vermengen und mit dem Dressing gut vermischen. Mit gehackten Kräutern bestreuen und ggf. etwas durchziehen lassen."
+},
+
+{
+  "id": "pommes",
+  "name": "Süßkartoffelpommes mit Guacamole",
+  "ingredients": [
+    {"name": "2–3 Süßkartoffeln", "category": "Obst und Gemüse"},
+    {"name": "1 TL Paprikapulver", "category": "Gewürze"},
+    {"name": "1 TL Maisstärke", "category": "Getreideprodukte"},
+    {"name": "2 Avocados", "category": "Obst und Gemüse"},
+    {"name": "1 Tomate", "category": "Obst und Gemüse"},
+    {"name": "1 Zwiebel", "category": "Obst und Gemüse"},
+    {"name": "1 Knoblauch", "category": "Obst und Gemüse"},
+    {"name": "1 Limette", "category": "Obst und Gemüse"}
+  ],
+  "instructions": "Backofen auf 200 °C Umluft vorheizen. Süßkartoffeln schälen und in Pommes-Streifen schneiden. Mit Paprikapulver und Maisstärke vermengen, dann auf ein Backblech legen und ca. 25–30 Minuten backen, bis sie außen knusprig und innen weich sind – zwischendurch wenden. Für die Guacamole Avocados halbieren, entkernen und das Fruchtfleisch in einer Schüssel zerdrücken. Tomate, Zwiebel und Knoblauch fein hacken und unterrühren. Limettensaft hinzufügen. Pommes mit Guacamole servieren."
+},
+
+{
+  "id": "Lachsnudeln",
+  "name": "Nudeln mit Lachs und Spinat",
+  "ingredients": [
+    {"name": "250g Nudeln (z. B. Tagliatelle oder Penne)", "category": "Getreideprodukte"},
+    {"name": "200g Lachsfilet (frisch oder TK, aufgetaut)", "category": "Fleisch und Fisch"},
+    {"name": "150g frischer Spinat", "category": "Obst und Gemüse"},
+    {"name": "1 Schalotte", "category": "Obst und Gemüse"},
+    {"name": "1 Knoblauch", "category": "Obst und Gemüse"},
+    {"name": "150ml Sahne oder pflanzliche Alternative", "category": "Milchprodukte"},
+    {"name": "1 TL Zitronensaft", "category": "Obst und Gemüse"},
+    {"name": "Muskatnuss", "category": "Gewürze"}
+  ],
+  "instructions": "Nudeln nach Packungsanweisung kochen. Währenddessen Schalotte und Knoblauch fein hacken, Lachs in mundgerechte Stücke schneiden. In einer Pfanne zuerst Zwiebel und Knoblauch kurz anbraten, dann den Lachs hinzufügen und einige Minuten anbraten, bis er gar ist. Spinat dazugeben und kurz zusammenfallen lassen. Sahne und Zitronensaft hinzufügen, leicht einköcheln lassen und mit Muskatnuss abschmecken. Nudeln abgießen und unter die Sauce mischen. Schnabulieren!"
+},
+
+{
+  "id": "Tomatensose",
+  "name": "Spaghetti mit Tomatensoße",
+  "ingredients": [
+    {"name": "250g Spaghetti", "category": "Getreideprodukte"},
+    {"name": "1 Dose gehackte Tomaten (400g)", "category": "Konserven"},
+    {"name": "1 Zwiebel", "category": "Obst und Gemüse"},
+    {"name": "1 Knoblauch", "category": "Obst und Gemüse"},
+    {"name": "1 TL Tomatenmark", "category": "Gewürze"},
+    {"name": "1 TL Zucker", "category": "Sonstiges"},
+    {"name": "frisches Basilikum oder Oregano (optional)", "category": "Gewürze"}
+  ],
+  "instructions": "Spaghetti nach Packungsanweisung kochen. Währenddessen Zwiebel und Knoblauch fein hacken und in einer Pfanne glasig dünsten. Tomatenmark kurz mitrösten, dann die gehackten Tomaten und Zucker hinzufügen. Die Soße bei mittlerer Hitze ca. 10–15 Minuten köcheln lassen, gelegentlich umrühren. Nach Belieben frische Kräuter hinzufügen. Die fertige Soße mit den Spaghetti vermengen und servieren."
+},
+
+{
+  "id": "Smoothiegrün",
+  "name": "Grüner Smoothie",
+  "ingredients": [
+    {"name": "1 Banane", "category": "Obst und Gemüse"},
+    {"name": "1 frischer Spinat", "category": "Obst und Gemüse"},
+    {"name": "1/2 Avocado", "category": "Obst und Gemüse"},
+    {"name": "1 Apfel oder 1 Kiwi", "category": "Obst und Gemüse"},
+    {"name": "1 TL Zitronensaft", "category": "Gewürze"},
+    {"name": "Optional: etwas frischer Ingwer oder Minze", "category": "Gewürze"}
+  ],
+  "instructions": "Alle Zutaten grob zerkleinern und in einen Mixer geben. So lange mixen, bis eine glatte, cremige Konsistenz entsteht. Bei Bedarf etwas mehr Flüssigkeit hinzufügen. Direkt kalt servieren."
+},
+
+{
+  "id": "Smoothierot",
+  "name": "Roter Smoothie mit Beeren",
+  "ingredients": [
+    {"name": "150g Beeren (z. B. Erdbeeren, Himbeeren, Heidelbeeren – frisch oder TK)", "category": "Obst und Gemüse"},
+    {"name": "1 Banane", "category": "Obst und Gemüse"},
+    {"name": "1 Apfel", "category": "Obst und Gemüse"},
+    {"name": "1 TL Zitronensaft", "category": "Gewürze"},
+    {"name": "Optional: 1 TL Honig oder Agavendicksaft", "category": "Sonstiges"}
+  ],
+  "instructions": "Alle Zutaten in einen Mixer geben und fein pürieren, bis ein cremiger Smoothie entsteht. Bei Bedarf etwas mehr Flüssigkeit hinzufügen. Direkt kalt servieren."
+},
+
+{
+  "id": "muesli",
+  "name": "Müsli nach Wahl",
+  "ingredients": [
+    {"name": "50g Haferflocken oder gemischte Flocken", "category": "Getreideprodukte"},
+    {"name": "1 Handvoll Nüsse oder Kerne (z. B. Mandeln, Walnüsse, Sonnenblumenkerne)", "category": "Obst und Gemüse"},
+    {"name": "1 Handvoll frisches Obst (z. B. Apfel, Beeren, Banane)", "category": "Obst und Gemüse"},
+    {"name": "1 Leckeres Müsli deiner Wahl", "category": "Getreideprodukte"},
+    {"name": "Milch, Joghurt oder pflanzliche Alternative nach Wahl", "category": "Milchprodukte"}
+  ],
+  "instructions": "Flocken in eine Schüssel geben. Obst waschen, klein schneiden und zusammen mit Nüssen und Samen über die Flocken geben. Mit Milch, Joghurt oder pflanzlicher Alternative auffüllen. Nach Belieben direkt genießen oder einige Minuten quellen lassen."
+},
+
+{
+  "id": "porridge",
+  "name": "Porridge mit Obst",
+  "ingredients": [
+    {"name": "50g Haferflocken", "category": "Getreideprodukte"},
+    {"name": "250ml Milch oder pflanzliche Alternative", "category": "Milchprodukte"},
+    {"name": "1 TL Ahornsirup oder Honig (optional)", "category": "Saucen"},
+    {"name": "Frisches Obst nach Wahl (z. B. Banane, Apfel, Beeren)", "category": "Obst und Gemüse"},
+    {"name": "Optional: Zimt, Nüsse oder Samen", "category": "Gewürze"}
+  ],
+  "instructions": "Haferflocken mit Milch in einem kleinen Topf unter Rühren aufkochen. Hitze reduzieren und 3–5 Minuten köcheln lassen, bis ein cremiger Brei entsteht. Mit Ahornsirup oder Honig süßen, nach Belieben mit Zimt verfeinern. In eine Schüssel geben und mit frischem Obst, Nüssen oder Samen garnieren. Warm servieren."
+},
+
+{
+  "id": "Morgenei",
+  "name": "Frühstücksei mit Brot",
+  "ingredients": [
+    {"name": "1–2 Eier (je nach Hunger)", "category": "Sonstiges"},
+    {"name": "1–2 Scheiben Brot (z. B. Vollkornbrot, Sauerteigbrot)", "category": "Getreideprodukte"},
+    {"name": "Butter oder Margarine (zum Bestreichen)", "category": "Milchprodukte"},
+    {"name": "Optional: Kresse, Schnittlauch oder Avocado als Topping", "category": "Obst und Gemüse"}
+  ],
+  "instructions": "Eier nach Wunsch zubereiten: weich oder hart gekocht (ca. 6–10 Minuten in kochendem Wasser), gespiegelt oder als Rührei. Brot toasten oder frisch servieren und nach Belieben mit Butter bestreichen. Eier auf oder neben dem Brot anrichten, optional mit frischen Kräutern oder Avocadoscheiben toppen."
+},
+
+{
+  "id": "Lasagne",
+  "name": "Vegetarische Gemüselasagne",
+  "ingredients": [
+    {"name": "9 Lasagneplatten", "category": "Getreideprodukte"},
+    {"name": "1 Aubergine", "category": "Obst und Gemüse"},
+    {"name": "1 Paprika (rot oder gelb)", "category": "Obst und Gemüse"},
+    {"name": "1 Karotte", "category": "Obst und Gemüse"},
+    {"name": "200g frischer Spinat oder TK-Spinat", "category": "Obst und Gemüse"},
+    {"name": "1 Zwiebel", "category": "Obst und Gemüse"},
+    {"name": "2 Knoblauch", "category": "Obst und Gemüse"},
+    {"name": "400g gehackte Tomaten (aus der Dose)", "category": "Obst und Gemüse"},
+    {"name": "2 EL Tomatenmark", "category": "Konserven"},
+    {"name": "30g Butter", "category": "Milchprodukte"},
+    {"name": "30g Mehl", "category": "Getreideprodukte"},
+    {"name": "400ml Milch", "category": "Milchprodukte"},
+    {"name": "100g geriebener Käse (z. B. Gouda oder Mozzarella)", "category": "Milchprodukte"}
+  ],
+  "instructions": "Zwiebel und Knoblauch fein hacken, in Olivenöl anbraten. Aubergine, Paprika und Karotte würfeln, dazugeben und ca. 5 Minuten anbraten. Spinat hinzufügen und zusammenfallen lassen. Tomatenmark und gehackte Tomaten unterrühren, mit Salz, Pfeffer, Oregano und Basilikum würzen. 10 Minuten köcheln lassen. Für die Béchamelsauce Butter schmelzen, Mehl einrühren und unter Rühren anschwitzen. Nach und nach Milch zugeben, glatt rühren und einige Minuten köcheln lassen. Mit Salz und Muskat würzen. In eine Auflaufform etwas Tomatensauce geben, dann abwechselnd Lasagneplatten, Gemüse-Tomatensauce und Béchamelsauce schichten. Mit Sauce abschließen und mit geriebenem Käse bestreuen. Im vorgeheizten Ofen bei 180 °C (Ober-/Unterhitze) ca. 35–40 Minuten backen, bis die Oberfläche goldbraun ist."
+},
+
+{
+  "id": "schupfnudeln",
+  "name": "Schupfnudeln mit Apfelmus",
+  "ingredients": [
+    {"name": "500g Schupfnudeln (aus dem Kühlregal oder selbstgemacht)", "category": "Getreideprodukte"},
+    {"name": "2 Äpfel", "category": "Obst und Gemüse"},
+    {"name": "1 Zimtstange oder 1/2 TL Zimtpulver", "category": "Gewürze"},
+    {"name": "1–2 EL Zucker", "category": "Sonstiges"}
+  ],
+  "instructions": "Für das Apfelmus die Äpfel schälen, entkernen und in kleine Stücke schneiden. Mit Wasser, Zucker, Zimt und einer Prise Salz in einem Topf etwa 10–15 Minuten weich kochen, dann mit einem Stabmixer oder einer Gabel fein pürieren. Währenddessen die Butter oder das Öl in einer großen Pfanne erhitzen und die Schupfnudeln darin bei mittlerer Hitze goldbraun anbraten. Die heißen Schupfnudeln mit dem noch warmen Apfelmus servieren."
+},
+
+{
+  "id": "spatzle",
+  "name": "Spätzle mit Linsen (schwäbisch, vegetarisch)",
+  "ingredients": [
+    {"name": "250g Spätzle (frisch oder getrocknet)", "category": "Getreideprodukte"},
+    {"name": "200g braune Linsen (z. B. Alb-Leisa oder Tellerlinsen)", "category": "Konserven"},
+    {"name": "1 Zwiebel", "category": "Obst und Gemüse"},
+    {"name": "1 Karotte", "category": "Obst und Gemüse"},
+    {"name": "1 Stange Sellerie oder 1 kleines Stück Knollensellerie", "category": "Obst und Gemüse"},
+    {"name": "2 EL Tomatenmark", "category": "Konserven"},
+    {"name": "500ml Gemüsebrühe", "category": "Sonstiges"},
+    {"name": "2 EL Essig (z. B. Apfelessig)", "category": "Konserven"},
+    {"name": "Optional: Röstzwiebeln oder Schnittlauch zum Garnieren", "category": "Gewürze"}
+  ],
+  "instructions": "Die Linsen nach Packungsanweisung garen (ggf. vorher einweichen). Zwiebel, Karotte und Sellerie fein würfeln. In einem Topf Butter oder Öl erhitzen, das Gemüse darin anschwitzen. Tomatenmark zugeben, kurz mitrösten. Mehl einrühren und mit Gemüsebrühe ablöschen. Gekochte Linsen hinzufügen, Lorbeerblatt zugeben und alles etwa 20–30 Minuten bei schwacher Hitze köcheln lassen. Mit Salz, Pfeffer, Essig und ggf. einer Prise Zucker abschmecken. In der Zwischenzeit Spätzle nach Packungsanweisung zubereiten. Linsen mit Spätzle servieren, nach Belieben mit Röstzwiebeln oder Schnittlauch garnieren."
+}
+
+
+
+]
+

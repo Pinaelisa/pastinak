@@ -1,1 +1,23 @@
-const selectedMeals=new Set;document.querySelectorAll(".card").forEach(e=>{e.addEventListener("click",()=>{let t=e.dataset.id;e.classList.toggle("selected"),selectedMeals.has(t)?selectedMeals.delete(t):selectedMeals.add(t)})}),document.getElementById("generate").addEventListener("click",()=>{let e=Array.from(selectedMeals);localStorage.setItem("selectedMeals",JSON.stringify(e)),window.location.href="generator.html"});
+const selectedMeals = new Set();
+
+// Optimierter Event-Listener mit Delegation
+document.querySelector(".grid").addEventListener("click", (event) => {
+  const card = event.target.closest(".card");
+  if (!card) return;
+
+  const id = card.dataset.id;
+  card.classList.toggle("selected");
+
+  if (selectedMeals.has(id)) {
+    selectedMeals.delete(id);
+  } else {
+    selectedMeals.add(id);
+  }
+});
+
+// Klick auf den "Generate"-Button
+document.getElementById("generate").addEventListener("click", () => {
+  const selectedArray = Array.from(selectedMeals);
+  localStorage.setItem("selectedMeals", JSON.stringify(selectedArray));
+  window.location.href = "generator.html";
+});

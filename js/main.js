@@ -1,18 +1,20 @@
 const selectedMeals = new Set();
 
-// Optimierter Event-Listener mit Delegation
-document.querySelector(".grid").addEventListener("click", (event) => {
-  const card = event.target.closest(".card");
-  if (!card) return;
+// Event-Listener für alle .grid-Container (Frühstück & Mittag/Abendbrot)
+document.querySelectorAll(".grid").forEach(grid => {
+  grid.addEventListener("click", (event) => {
+    const card = event.target.closest(".card");
+    if (!card) return;
 
-  const id = card.dataset.id;
-  card.classList.toggle("selected");
+    const id = card.dataset.id;
+    card.classList.toggle("selected");
 
-  if (selectedMeals.has(id)) {
-    selectedMeals.delete(id);
-  } else {
-    selectedMeals.add(id);
-  }
+    if (selectedMeals.has(id)) {
+      selectedMeals.delete(id);
+    } else {
+      selectedMeals.add(id);
+    }
+  });
 });
 
 // Klick auf den "Generate"-Button
